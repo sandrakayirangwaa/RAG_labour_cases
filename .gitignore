@@ -1,0 +1,5 @@
+data/vector_db/
+data/embeddings.npy
+data/clean/
+__pycache__/
+.ipynb_checkpoints/

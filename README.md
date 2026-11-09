@@ -14,5 +14,8 @@ Employment and Labour Relations Court decisions from 2025, with source citations
 2. Upload the zip of case files to `/content`.
 3. Run all cells. Type `exit` at the Task 7 prompt to continue.
 
+## Data
+Court decisions are from Kenya Law (kenyalaw.org), used for non-commercial academic purposes. All rights remain with their owners.
+
 ## Disclaimer
 Educational use only. Not legal advice.
